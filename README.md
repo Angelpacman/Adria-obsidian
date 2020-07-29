@@ -4,6 +4,8 @@ A theme for Obsidian that is colorful as a Dinosaur. Originally based on [T-rex 
 
 ![](adria.png)
 
+![](adria-light.png)
+
 ## Install
 
 - Download obsidian.css to your Obsidian vault folder.
