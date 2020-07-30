@@ -135,10 +135,16 @@ li {
 }
 
 .tag, .tag:hover {
-  color: var(--green);
+  color: var(--blue);
   background-color: var(--background-primary-alt);
   padding: 2px 4px;
   border-radius: 4px;
+}
+/* Tag Color in editor and preview*/
+.cm-hashtag {
+  color: var(--blue) !important;
+  /* text-decoration: none !important; */
+  font-style: normal !important;
 }
 
 .markdown-preview-view .task-list-item-checkbox {
