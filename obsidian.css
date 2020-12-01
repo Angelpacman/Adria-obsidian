@@ -708,3 +708,19 @@ pre code {
   width: 0px !important;
 }
 */
+
+/**********************/
+/* BOLD AND ITALTICS */
+/**********************/
+
+strong,
+.cm-s-obsidian .cm-strong {
+  color: var(--purple);
+  font-weight: 700;
+}
+
+
+em,
+.cm-s-obsidian .cm-em {
+  color: var(--green);
+}
