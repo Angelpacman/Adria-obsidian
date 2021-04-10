@@ -503,7 +503,7 @@ pre.line-numbers > code {
     color: #3e3471;
 }
 .graph-view.color-line-highlight {
-    color: #ff5555;
+    color: var(--green);
 }
 /**/
 
