@@ -375,7 +375,7 @@ pre[class*='language-'] {
 }
 
 .token.punctuation {
-  color: var(--red) !important;
+  color: var(--magenta) !important;
 }
 
 .token.selector,
@@ -420,15 +420,15 @@ pre[class*='language-'] {
 }
 
 .token.class-name {
-  color: var(--yellow) !important;
+  color: var(--altblue) !important;
 }
 
 .token.regex,
 .token.important,
 .token.variable {
-  color: var(--purple) !important;
+  color: var(--orange) !important;
 }
-
+/* ---------------------------------fonts----------------------------------------------------------- */
 .token.important,
 .token.bold {
   font-weight: bold !important;
@@ -437,6 +437,9 @@ pre[class*='language-'] {
 .token.italic {
   font-style: italic !important;
 }
+
+/* ---------------------------------fonts----------------------------------------------------------- */
+
 
 .token.entity {
   cursor: help !important;
