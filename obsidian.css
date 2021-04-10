@@ -215,13 +215,11 @@ mjx-container[jax='CHTML'] {
 }
 
 .cm-s-obsidian pre.HyperMD-codeblock,
-/* .cm-s-obsidian span.cm-inline-code, */
 .cm-s-obsidian span.cm-math:not(.cm-formatting-math-begin):not(.cm-formatting-math-end),
 .markdown-preview-view code {
   color: var(--magenta); /*inherit*/
 }
 
-/* .cm-s-obsidian span.cm-inline-code, */
 .cm-s-obsidian span.cm-math,
 .cm-s-obsidian span.hmd-fold-math-placeholder {
   font-weight: 600;
