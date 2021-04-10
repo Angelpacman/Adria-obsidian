@@ -733,6 +733,22 @@ em,
 }
 
 
+/* Tables */
+.markdown-preview-view th {
+  background-color: var(--green);
+  color: var(--background-secondary);
+  /* color: var(--text-faint); */
+  border-radius: 4px;
+}
+
+.cm-s-obsidian pre.HyperMD-table-row span.cm-hmd-table-sep {
+  color: unset;
+}
+
+.cm-s-obsidian pre.HyperMD-table-row-1 > span {
+  color: unset;
+}
+
 /* File explorer navigation selection */
 .nav-file-title.is-active, .nav-folder-title.is-active, body:not(.is-grabbing) .nav-file-title:hover, body:not(.is-grabbing) .nav-folder-title:hover {
   background-color: var(--text-highlight-bg);
